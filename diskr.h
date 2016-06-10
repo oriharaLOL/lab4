@@ -1,2 +1,3 @@
-#include<stdio.h>
-#include<math.h>
+#pragma once
+
+void dis(float a,float b,float c);
