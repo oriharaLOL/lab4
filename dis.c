@@ -1,7 +1,7 @@
 #include<stdio.h>
 #include<math.h>
 
-dis(float a,float b,float c)
+void dis(float a,float b,float c)
 { 
 float D,x1,x2;
     D = b*b-4*a;
